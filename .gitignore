@@ -1,0 +1,22 @@
+# Release artifacts belong in GitHub Releases, not in the repository
+*.apk
+*.aab
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+google-services.json
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# IDE / OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
