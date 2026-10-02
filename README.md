@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/structa-logo.webp" alt="Structa logo" width="170">
+<img src="docs/images/structa-logo.png" alt="Structa logo" width="170">
 
 # Structa
 
@@ -27,7 +27,7 @@ Structa is an Android document app built around a simple workflow: **scan, under
 Instead of treating scanning, OCR, file management, editing and document Q&A as unrelated tools, Structa brings them together in one app.
 
 <p align="center">
-  <img src="docs/images/01-home.webp" alt="Structa home screen — Scan. Organize. Done." width="820">
+  <img src="docs/images/01-home.png" alt="Structa home screen — Scan. Organize. Done." width="820">
 </p>
 
 ## Smart OCR
@@ -37,7 +37,7 @@ Instead of treating scanning, OCR, file management, editing and document Q&A as 
 Structa uses OCR (Optical Character Recognition) to detect text inside documents. Recognized text can be selected and used for actions such as copying and searching, making paper documents far easier to work with digitally.
 
 <p align="center">
-  <img src="docs/images/02-smart-ocr.webp" alt="Structa Smart OCR — recognize, edit, copy and search text" width="820">
+  <img src="docs/images/02-smart-ocr.png" alt="Structa Smart OCR — recognize, edit, copy and search text" width="820">
 </p>
 
 ## Organize your files
@@ -47,7 +47,7 @@ Structa uses OCR (Optical Character Recognition) to detect text inside documents
 The Structa library is designed around quick access to documents, folders and common file types. Search and filters help keep scanned documents from becoming another pile of files on your phone.
 
 <p align="center">
-  <img src="docs/images/03-files.webp" alt="Structa file library — organize and find documents" width="820">
+  <img src="docs/images/03-files.png" alt="Structa file library — organize and find documents" width="820">
 </p>
 
 ## Edit and share
@@ -57,7 +57,7 @@ The Structa library is designed around quick access to documents, folders and co
 Structa includes a document editing workflow for annotations and highlights, together with export and sharing actions. Documents can be prepared for PDF output or shared as part of the same flow.
 
 <p align="center">
-  <img src="docs/images/04-edit-share.webp" alt="Structa editor — annotate, highlight, convert and share documents" width="820">
+  <img src="docs/images/04-edit-share.png" alt="Structa editor — annotate, highlight, convert and share documents" width="820">
 </p>
 
 ## Ask Structa
@@ -69,7 +69,7 @@ Ask Structa uses the content of the selected document as context for the convers
 Examples include asking for a due date, an amount, a summary or specific information contained in a document.
 
 <p align="center">
-  <img src="docs/images/05-ask-structa.webp" alt="Ask Structa — AI answers grounded in document content with source references" width="820">
+  <img src="docs/images/05-ask-structa.png" alt="Ask Structa — AI answers grounded in document content with source references" width="820">
 </p>
 
 ## How it works
