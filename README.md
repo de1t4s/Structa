@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/structa-logo.png" alt="Structa logo" width="150">
+<img src="docs/images/structa-logo.webp" alt="Structa logo" width="150">
 
 # Structa
 
@@ -29,16 +29,16 @@ It combines document scanning, OCR (Optical Character Recognition), file organiz
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/images/01-home.png" alt="Structa home screen — Scan. Organize. Done."></td>
-    <td width="50%"><img src="docs/images/02-smart-ocr.png" alt="Structa Smart OCR text extraction"></td>
+    <td width="50%"><img src="docs/images/01-home.webp" alt="Structa home screen — Scan. Organize. Done."></td>
+    <td width="50%"><img src="docs/images/02-smart-ocr.webp" alt="Structa Smart OCR text extraction"></td>
   </tr>
   <tr>
     <td align="center"><strong>Scan. Organize. Done.</strong></td>
     <td align="center"><strong>Smart OCR</strong></td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/images/03-files.png" alt="Structa document library and organization"></td>
-    <td width="50%"><img src="docs/images/04-edit-share.png" alt="Structa document editor and sharing tools"></td>
+    <td width="50%"><img src="docs/images/03-files.webp" alt="Structa document library and organization"></td>
+    <td width="50%"><img src="docs/images/04-edit-share.webp" alt="Structa document editor and sharing tools"></td>
   </tr>
   <tr>
     <td align="center"><strong>Organize your files</strong></td>
@@ -47,7 +47,7 @@ It combines document scanning, OCR (Optical Character Recognition), file organiz
 </table>
 
 <p align="center">
-  <img src="docs/images/05-ask-structa.png" alt="Ask Structa AI document questions with cited answers" width="72%">
+  <img src="docs/images/05-ask-structa.webp" alt="Ask Structa AI document questions with cited answers" width="72%">
 </p>
 
 ## Key features
